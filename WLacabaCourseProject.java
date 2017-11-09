@@ -26,7 +26,7 @@ public class WLacabaCourseProject
                         System.exit(1);
                 }
                 
-                String toDraw = shapes[index] + ".txt";
+                String toDraw = "Polyhedra Text Files/" + shapes[index] + ".txt";
 
                 Polyhedra poly = new Polyhedra(toDraw);
                 poly.constructPolyhedra();
