@@ -6,6 +6,12 @@ Author:         Warren Lacaba
 Student Number: 7713922
 Source Files:   WLacabaCourseProject.java, Polyhedra.java, Edge.java, Face.java, HCoord.java, 
 		PCoord.java, DisplayInfo.java, Display.java
+		
+NOTE-----------------------------------------------------------------------------------------------
+
+This was a project I did for Advanced Design and Analysis of Algorithms back during the Winter 2016
+semester. I am uploading it here as an example of my past work, and as a safety net in case I
+accidentally delete the project while I'm freeing space on my hard drive (haha).
 
 SYSTEM SPECIFICATIONS------------------------------------------------------------------------------
 
