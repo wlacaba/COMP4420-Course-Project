@@ -124,8 +124,8 @@ class Display implements GLEventListener, KeyListener
         final GLU glu = new GLU();
 		glu.gluOrtho2D(-limit, limit, limit, -limit);
         
-		//Specifies the background color displayed when you call glClear, in this case, black
-		gl.glClearColor(0f, 0f, 0f, 1f);
+		//Specifies the background color displayed when you call glClear, in this case, white
+		gl.glClearColor(1f, 1f, 1f, 1f);
 	}
 
 	@Override
